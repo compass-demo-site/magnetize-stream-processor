@@ -1,5 +1,4 @@
 name: magnetize-stream-processor
-id: "ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/57822f8f-3c42-4311-8fc7-a54d4dbacef6"
 description: Streaming playback
 ownerId: "ari:cloud:teams::team/df9335ac-cccf-4f3e-9218-eb7c8fea2115"
 fields:
